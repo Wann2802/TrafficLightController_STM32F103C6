@@ -1,5 +1,6 @@
 Docs/
 Software/.metadata/
+*.pdsprj*.workspace
 *.hex
 *.elf
 *.bin
