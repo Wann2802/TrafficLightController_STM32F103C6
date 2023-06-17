@@ -1,5 +1,7 @@
 Docs/
+Software/.metadata/
 *.hex
 *.elf
 *.bin
 *.pdsbak
+*.o
