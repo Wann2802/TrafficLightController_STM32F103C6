@@ -7,4 +7,4 @@ Software/.metadata/
 *.pdsbak
 *.o
 .VSCODE-wal
-.VSCODE
+.VSCODE*
