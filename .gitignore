@@ -6,5 +6,6 @@ Software/.metadata/
 *.bin
 *.pdsbak
 *.o
+*.log
 .VSCODE-wal
 .VSCODE*
